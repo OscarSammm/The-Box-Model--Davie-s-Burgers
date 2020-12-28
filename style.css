@@ -54,8 +54,8 @@ body {
   }
   
   .header h1 {
-    background-color: #05A8AA;
-    color: #FFF;
+    background-color: red;
+    color: goldenrod;
     font-family: 'Oswald', sans-serif;
     font-size: 40px;
     font-weight: 300;
@@ -90,7 +90,7 @@ body {
     width: 200px;
     padding: 20px;
     margin: 40px auto;
-    border: 1px solid blue;
+    border: 1px solid gold;
   }
   
   .button:hover {
